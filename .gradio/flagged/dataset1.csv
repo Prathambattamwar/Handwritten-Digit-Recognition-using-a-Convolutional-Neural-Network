@@ -1,0 +1,4 @@
+Upload Your Digit Image,Predictions,timestamp
+,"{""label"": null, ""confidences"": null}",2025-09-18 21:50:51.114665
+,"{""label"": null, ""confidences"": null}",2025-09-18 21:50:53.421083
+.gradio\flagged\Upload Your Digit Image\87c7f7b08744e8bb4be4\WhatsApp Image 2025-09-18 at 21.50.14_c84f160e.jpg,"{""label"": ""1"", ""confidences"": [{""label"": ""1"", ""confidence"": 0.11777667701244354}, {""label"": ""4"", ""confidence"": 0.10567451268434525}, {""label"": ""0"", ""confidence"": 0.10485085099935532}]}",2025-09-18 21:55:23.345027
